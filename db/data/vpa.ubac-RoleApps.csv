@@ -1,0 +1,12 @@
+role,appKey,userRole_ID
+Admin,masterData,
+Admin,pricing,
+Admin,userAccess,
+Admin,approval.masterData.act,
+Admin,approval.pricing.act,
+MasterDataSubmitter,masterData,
+MasterDataSubmitter,approval.masterData.view,
+MasterDataApprover,approval.masterData.act,
+PricingSubmitter,pricing,
+PricingSubmitter,approval.pricing.view,
+PricingApprover,approval.pricing.act,
